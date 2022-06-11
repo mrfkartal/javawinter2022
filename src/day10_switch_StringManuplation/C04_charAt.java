@@ -31,10 +31,7 @@ public class C04_charAt {
         //uzunluk -1
 
         /*
-        merdümi dîdeme bilmem ne füsûn etti felek
-        eşkimi kıldı füzûn giryemi hûn etti felek
-        şîrler pençe-i kahrımda olurken lerzân
-        beni bir gözleri âhûya zebûn etti felek
+
          */
 
     }

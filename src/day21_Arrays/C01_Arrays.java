@@ -23,8 +23,8 @@ public class C01_Arrays {
 
         //kullanmadan once mutlaka deger atamsu yapmamiz gerekir
 
-        // hwm deklare edip hem de atama yapacaksam nasil yapabilirim
-        // 1- deklare edip esitligin sagina suslu parantez icersinde deerleri yazabirlirim
+        // hem deklare edip hem de atama yapacaksam nasil yapabilirim
+        // 1- deklare edip esitligin sagina suslu parantez icersinde degerleri yazabirlirim
         // 2- icine deger atamadan olusturmak isterseniz boyutunu belirlememiz gerekir
 
         int arr7[]=new int [5];  // java icinde 5 tane default deger olan bir array olusturur

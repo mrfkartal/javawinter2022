@@ -11,7 +11,7 @@ public class C03_DoWhileLoop {
         int sayi=1;
         int sayac=1;
 
-        while( sayi<input){   //wh,le loop önce kontorol yapıyor sonra işlem yapıyor bunun
+        while( sayi<input){   //while loop önce kontorol yapıyor sonra işlem yapıyor bunun
                                 // için bir kere fazla yazduruyor.
             System.out.println(sayi);
            sayi++;

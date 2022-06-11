@@ -7,10 +7,14 @@ public class C04_DateTimeFormatter {
     public static void main(String[] args) {
         LocalDateTime tarihSaat= LocalDateTime.now();
         System.out.println(tarihSaat); // 2022-03-31T21:39:32.704508800
+
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MMMM/YYYY");
         System.out.println(formatter.format(tarihSaat)); // 31/3/2022
+
         DateTimeFormatter formatterSaat=DateTimeFormatter.ofPattern("h:mm:ss  a");
         System.out.println(formatterSaat.format(tarihSaat)); // 21 : 52
+
+
         /*
          format olustururken
          GUN

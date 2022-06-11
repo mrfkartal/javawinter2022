@@ -6,7 +6,8 @@ public class C05_WrapperClass {
         short sayi1=20;
         Short sayi2=30;
 
-        sayi1=sayi2;  //wrapper class ile aynı isimdeki primitive data turu arsaında geçiş olabilir
+        sayi1=sayi2;  //wrapper class ile aynı isimdeki primitive
+        // data turu arsaında geçiş olabilir
 
         System.out.println(sayi1);   //30
 
